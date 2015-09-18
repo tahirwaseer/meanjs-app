@@ -31,7 +31,7 @@ $ npm install -g grunt-cli
    ```
  You can user any other method to download repositry. 
  
-4. Lets have some action, goto cloned directory
+ * Lets have some action, goto cloned directory
 
 	```bash
 	 $ cd my_directory
