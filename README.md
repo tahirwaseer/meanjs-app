@@ -30,7 +30,6 @@ $ npm install -g grunt-cli
 	$ git clone git@github.com:tahirwaseer/meanjs-app.git my_directory
    ```
  You can user any other method to download repositry. 
- 
  * Lets have some action, goto cloned directory
 
 	```bash
